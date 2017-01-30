@@ -1,4 +1,3 @@
-#Copyright Shrijan Aryal
 #recursive factorial calculating function
 def factorialcalculator (n):
     if n <= 0 :
